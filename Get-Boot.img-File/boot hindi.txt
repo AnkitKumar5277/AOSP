@@ -13,3 +13,6 @@ step 5 - fir exe file ko open karo fir payload.bin filo ko ye automatically extr
 ka wait karo 
 
 last step - output folder open karo aur aapko boot.img file mil jayegi
+
+NEW METHOD: 
+OR USE PAYLOAD DUMBER APK : https://github.com/rajmani7584/Payload-Dumper-Android/releases
